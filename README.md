@@ -13,5 +13,5 @@ Encontre artigos, blogs, códigos para Fork e informações úteis para auxiliar
 <img src="https://img.shields.io/badge/➧%20LinkedIn-3730a3?style=plastic" alt="LinkedIn - Tiago Riêgo"/>
 </a>
 <br><br>
-🖻 Portfólio - UPCOMING <br>
+🖻 Portfólio - UPCOMING <br><br>
 <img src="https://riegos.dev/img/Portfolio-TR-resized.png" alt="Upcoming Portfólio" />

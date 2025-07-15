@@ -9,15 +9,14 @@ Meu portifólio está em desenvolvimento (preview no final deste artigo).<br>
 Em breve, você contará com diversos artigos, blogs, códigos para Fork e informações úteis para auxiliar em sua carreira em DEV ou para parcerias.
 <br><br>
 🖇 Conecte-se comigo:
-<br><br>
-<a href=" https://www.linkedin.com/in/tiagoriegodr/" target="_blank">
-<img src="https://img.shields.io/badge/➧%20LinkedIn-3730a3?style=plastic" alt="LinkedIn - Tiago Riêgo"/>
-</a>
-<br><br>
+<br>
+<a href="https://www.linkedin.com/in/tiagoriegodr/" target="_blank">
+  <img src="https://img.shields.io/badge/➧%20LinkedIn-3730a3?style=plastic" alt="LinkedIn - Tiago Riêgo"/>
+</a><br><br>
 🖻 Portfólio - UPCOMING <br><br>
 <img src="https://riegos.dev/img/Portfolio-TR-resized.png" alt="Upcoming Portfólio" />
 <br><br>
-Em quanto isso, passeie pelo nosso hub de inovações:<br><br>
-<a href=" https://riegos.dev" target="_blank">
-<img src="https://img.shields.io/badge/➧%20Riegos.dev-3730a3?style=plastic" alt="Hub Riegos.dev"/>
+𝘌𝘮 𝘲𝘶𝘢𝘯𝘵𝘰 𝘪𝘴𝘴𝘰, 𝘱𝘢𝘴𝘴𝘦𝘪𝘦 𝘱𝘦𝘭𝘰 𝘯𝘰𝘴𝘴𝘰 𝘩𝘶𝘣 𝘥𝘦 𝘪𝘯𝘰𝘷𝘢𝘤̧𝘰̃𝘦𝘴:<br>
+<a href="https://riegos.dev" target="_blank">
+  <img src="https://img.shields.io/badge/➧%20Riegos.dev-3730a3?style=plastic" alt="Hub Riegos.dev"/>
 </a>

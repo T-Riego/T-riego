@@ -4,8 +4,9 @@
 <br><br>
 ꚰ Bem-vindo ao repositório oficial de Tiago Riêgo.
 <br><br>
-🖹 Sou Tiago Riêgo:  Desenvolvedor Full Stack e futuros Arquitetos de Software, apaixonado por transformar ideias em soluções digitais robustas, escaláveis e eficientes.
-Encontre artigos, blogs, códigos para Fork e informações úteis para auxiliar em sua carreira como DEV ou para parcerias.
+🖹 Sou Tiago Riêgo:  Desenvolvedor Full Stack e futuro Arquiteto de Software, apaixonado por transformar ideias em soluções digitais robustas, escaláveis e eficientes.
+Meu portifólio está em desenvolvimento (preview no final deste artigo).<br>
+Em breve, você contará com diversos artigos, blogs, códigos para Fork e informações úteis para auxiliar em sua carreira em DEV ou para parcerias.
 <br><br>
 🖇 Conecte-se comigo:
 <br><br>
@@ -15,3 +16,8 @@ Encontre artigos, blogs, códigos para Fork e informações úteis para auxiliar
 <br><br>
 🖻 Portfólio - UPCOMING <br><br>
 <img src="https://riegos.dev/img/Portfolio-TR-resized.png" alt="Upcoming Portfólio" />
+<br><br>
+Em quanto isso, passeie pelo nosso hub de inovações:<br><br>
+<a href=" https://riegos.dev" target="_blank">
+<img src="https://img.shields.io/badge/➧%20Riegos.dev-3730a3?style=plastic" alt="Hub Riegos.dev"/>
+</a>
